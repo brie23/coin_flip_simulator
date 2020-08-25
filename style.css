@@ -1,0 +1,15 @@
+/*
+  Assignment: Rock Paper Scissors Simulator
+  Author: Brianna Eaddy
+  Date: 07/30/2020
+  Purpose: This is to apply custom style settings
+*/
+
+/* Table Formatting */
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+}
